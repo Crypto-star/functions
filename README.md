@@ -12,3 +12,10 @@ Features:
 3. The project will generate a travel plan that includes suggested activities and attractions.
 
 **[Check out The Project Here](https://harshvashisth-12856.bubbleapps.io/version-test/?debug_mode=true)**
+
+##Demo
+
+
+https://github.com/Crypto-star/functions/assets/71336874/c47187ae-7bcf-460d-822c-d41574186cc2
+
+
